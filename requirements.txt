@@ -1,0 +1,7 @@
+pandas
+langchain_huggingface
+langchain_community
+faiss-cpu
+chainlit
+transformers
+torch
